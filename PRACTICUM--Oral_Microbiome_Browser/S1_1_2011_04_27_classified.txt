@@ -1,0 +1,8 @@
+S1_1|0|G1OLV2J01EXWZX|205|36		Root	rootrank	1.0	Bacteria	domain	0.83	"Bacteroidetes"	phylum	0.13	"Sphingobacteria"	class	0.08	"Sphingobacteriales"	order	0.08	"Saprospiraceae"	family	0.02	Haliscomenobacter	genus	0.02
+S1_1|1|G1OLV2J01ECGJY|327|29	-	Root	rootrank	1.0	Bacteria	domain	1.0	Firmicutes	phylum	0.98	Clostridia	class	0.95	Clostridiales	order	0.95	Clostridiales_Incertae Sedis XIII	family	0.39	Anaerovorax	genus	0.36
+S1_1|2|G1OLV2J01BVL9S|323|39	-	Root	rootrank	1.0	Bacteria	domain	0.95	"Proteobacteria"	phylum	0.23	Gammaproteobacteria	class	0.12	Aeromonadales	order	0.07	Succinivibrionaceae	family	0.07	Succinimonas	genus	0.07
+S1_1|3|G1OLV2J01C9HB9|512|36	-	Root	rootrank	1.0	Bacteria	domain	1.0	Firmicutes	phylum	1.0	Clostridia	class	1.0	Clostridiales	order	1.0	Lachnospiraceae	family	1.0	Shuttleworthia	genus	1.0
+S1_1|4|G1OLV2J01A5DLA|490|34	-	Root	rootrank	1.0	Bacteria	domain	1.0	"Spirochaetes"	phylum	1.0	Spirochaetes	class	1.0	Spirochaetales	order	1.0	Spirochaetaceae	family	1.0	Treponema	genus	1.0
+S1_1|5|G1OLV2J01EHBA9|263|38	-	Root	rootrank	1.0	Bacteria	domain	0.92	"Bacteroidetes"	phylum	0.25	Flavobacteria	class	0.17	"Flavobacteriales"	order	0.17	Flavobacteriaceae	family	0.13	Zunongwangia	genus	0.04
+S1_1|6|G1OLV2J01DKS1D|504|35	-	Root	rootrank	1.0	Bacteria	domain	1.0	Firmicutes	phylum	1.0	Bacilli	class	1.0	Lactobacillales	order	1.0	Streptococcaceae	family	1.0	Streptococcus	genus	1.0
+S1_1|7|G1OLV2J01EFCWV|530|34	-	Root	rootrank	1.0	Bacteria	domain	1.0	"Actinobacteria"	phylum	1.0	Actinobacteria	class	1.0	Coriobacteridae	subclass	1.0	Coriobacteriales	order	1.0	"Coriobacterineae"	suborder	1.0	Coriobacteriaceae	family	1.0	Atopobium	genus	1.0

@@ -1,0 +1,8 @@
+Name of fastq file: 'project.fastq'
+Number of reads: 100000
+Average read length: 103.0
+Minimum read length: 103
+Maximum read length: 103
+Average read quality: 34.64310339805838
+Percent of reads above average: 72.556
+Overall GC percent: 39.34709708737864

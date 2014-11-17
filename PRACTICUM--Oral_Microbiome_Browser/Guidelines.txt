@@ -1,0 +1,99 @@
+
+- Presentation should be for 15 minutes plus 2-3 mins of QA section.
+- Presentation should include 
+
+- Description of the problem
+
+periodontitus/pyorrhea - set of inflammatory disease affecting periodontium (tissues supporting/surrounding teeth). loss of alveolar bone around teeth -> loosening and loss of teeth. 
+- caused by microorganisms + over-aggressive immune response
+- major categories include gingivitis, periodontic-endodontic lesions, chronic/aggressive periodontitis, necrotizing ulcerative periodontitis, abscesses of the periodontium
+- deep pockets between teeth and gums - caused by destrogen of collagen by collagenases - gingival fibers, gum tissues separate from tooth and deepened sulcus -> periodontal pocket
+
+periodontium: 
+GINGIVA - gum tissue
+CEMENTUM - outer layer of roots of teeth
+ALVEOLAR BONE - bony sockets in which teeth anchored
+PERIODONTAL LIGAMENTS - (PDLs) connective tissue fibers between cementum and alveolar bone
+
+CAUSE:
+poor oral hygiene, accumulation of bacterial/mycotic matrix at gum line - dental plaque, poor nutrition, linked to diabetes
+CALCULUS - calcified microbial plaque, aka tartar -> must be completely removed by dentist to treat gingivitis/periodontitis
+
+P. gingivalis - colonizes oral epithelium, virulence factors include extracellular proteases that can modulate immune system, affect epithelial cell proteins and receptors, a lipopolysaccharide that induces pathogenic immune response
+- toxins of invading bacteria can cause cell death and tooth decay, which can spread to underlying bone
+
+periodontal disease, caries, increase complexity and composition of oral biofilm
+periodontal disease due to plaque biofilm affecting periodontal tissues
+
+Primary: compare oral microbiome in deep vs shallow sites (disease vs healthy). 
+
+Secondary: evaluate influence of smoking, race, dental caries 
+- Periodontitis, gum infection, destroys bone and damages soft tissue
+- discover and target species that have significantly greater abundancy in diseased sites
+- develop better periodontal therapeutic methods to slow/stop periodontitis
+
+
+- build an online explorer to perform analyses interactively
+
+
+- Description of dataset
+92 subjects from 2 clinics: VCU and WISE
+Paired samples taken from each subject
+Deep: (probe site depth > 5 mm)
+Shallow: (probe site depth < 3 mm)
+Amplified and sequenced V4-V6 region of 16s rRNA sequences
+pyrosequencing
+
+
+- Analysis methods
+Differences in genera/species due to deep vs shallow sites analyzed by two-part model and false discovery rate
+
+51 of 170 genera significantly different in abundancies between deep/shallow
+200 of 746 species significantly different in abundancies between deep/shallow
+
+* normal conditions: predominant phyla: Firmicutes, Bacteriodetes, Proteobacteria, Actinobacteria, Fusobacteria
+
+"Firmicutes, Actinobacteria and Proteobacteria - significant reduction in disease sites
+Bacteroidetes and Spirochaetes - significant increase in disease sites. 
+
+
+
+Hierarchical Trees Cluster analysis -> microbiome difference between deep and shallow significantly influenced by clinic location, race, caries status gender, smoking. 
+
+ assemble profile by taxonomy and calculate read counts, % of sample and average score
+
+- Workflow of your project
+RDP Classifier, 0.5 and 0.8 thresholds
+Parse Classified File
+Extract and format data for loading into database
+Assemble interactive html pages with python/django
+
+
+
+
+- Database design
+Construction of Models
+Project, Sample, SampleAttribute, Taxa, ClassificationMethod, Profile Summary
+
+- Sample, ReadId Taxa Name and Level if taxa's score meets threshold
+- Calculate #reads, % of sample, avg score --> profile summary for each taxa
+- From PRofile Summary, extract and compile a list of all taxa and their levels
+- Map, collapse and retrieve sample attributes and their values from the Clinical Data Set
+
+
+
+- Web application demo 
+
+
+
+- Anything else you can think of which is related to project
+
+
+Report should also follow the same flow as presentation but it is in more detailed written report. Report will be 5-8 pages long.  
+
+Due date for Report is May 11th, Noon.  
+
+Please let me know if you have any questions. See you at Tuesday at 2 pm May 6th. 
+
+Thanks,
+Nihar 

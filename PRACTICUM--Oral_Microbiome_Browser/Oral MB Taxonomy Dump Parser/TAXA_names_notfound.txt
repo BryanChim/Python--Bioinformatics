@@ -1,0 +1,25 @@
+ 	Erysipelotrichaceae_incertae_sedis 	 	
+ 	SR1_genera_incertae_sedis 	 	
+ 	Clostridiales_Incertae Sedis XIII 	 	
+ 	Peptococcaceae 1 	 	
+ 	Cyanobacteria/Chloroplast 	 	
+ 	Burkholderiales_incertae_sedis 	 	
+ 	Bacillales_Incertae Sedis XI 	 	
+ 	Chloroplast 	 	
+ 	Bacteroidales_incertae_sedis 	 	
+ 	Peptostreptococcaceae_incertae_sedis 	 	
+ 	Bacillaceae 2 	 	
+ 	Bacillaceae 1 	 	
+ 	SR1 	 	
+ 	TM7 	 	
+ 	Escherichia/Shigella 	 	
+ 	Clostridium XlVb 	 	
+ 	Corynebacterineae_incertae_sedis 	 	
+ 	Lachnospiracea_incertae_sedis 	 	
+ 	Clostridiales_Incertae Sedis XII 	 	
+ 	Spartobacteria_genera_incertae_sedis 	 	
+ 	TM7_genera_incertae_sedis 	 	
+ 	Clostridium XIX 	 	
+ 	Clostridiaceae 2 	 	
+ 	Clostridiaceae 4 	 	
+ 	Clostridiales_Incertae Sedis XI 	 	

@@ -1,0 +1,4 @@
+Mouse Refseq-id	Human Refseq-id	Length of Mouse Gene	Length of Human Gene	Alignment-length	Bit-score	E-score
+NM_009653.3	NM_000032.2	1983	1941	1931	2167	0.0
+NM_009653.3	NM_001037969.1	1983	1745	1700	1919	0.0
+NM_010323.1	NM_000406.2	1220	5843	1042	1055	0.0
