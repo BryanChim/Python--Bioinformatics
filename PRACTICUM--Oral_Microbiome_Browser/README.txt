@@ -1,6 +1,8 @@
 This is an extensive bioinformatics project that I completed for my graduate practicum. The final product is an interactive browser-based application that can search for/filter information on the oral microbiome of dental patient samples. 
 
-The Python-Django app files are located in separate repository on my Github -- "Python-Django--Oral_Microbiome_Browser"
+The Python-Django app files are located in separate repository on my Github -- "Python-Django--Oral_Microbiome_Browser" 
+* Link: https://github.com/BryanChim/Python-Django--Oral_Microbiome_Browser
+
 
 If you have Python-Django installed on your system, you can try out this browser with the following steps:
 
@@ -15,4 +17,8 @@ If you have Python-Django installed on your system, you can try out this browser
 5) Enjoy!  
 
 
-For an in-depth report on the background, planning and workflow of the project, please see: "Oral Microbiome Project Report.docx"
+- If you're unable or do not wish to run the application, you can view screenshots of the interface in the images "Django Pages.jpg" and "Django Pages2.jpg"
+
+- For a pictoral representation of the MySQL tables created in the Microbiome database, see the image "models and keys.jpg"
+
+- For an in-depth report on the background, planning and workflow of the project, please see: "Oral Microbiome Project Report.docx"
